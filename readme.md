@@ -1,4 +1,4 @@
-## ** GaijinRyman's Japanese Learning Resources**
+## GaijinRyman's Japanese Learning Resources
 
 #### Resource lists:
 

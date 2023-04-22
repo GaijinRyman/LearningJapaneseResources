@@ -1,6 +1,6 @@
 ## GaijinRyman's Japanese Learning Resources
 
-#### Resource lists:
+#### Resources lists:
 
 1. [Donkuri](https://donkuri.github.io/learn-japanese/)
 2. [Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)
@@ -23,15 +23,19 @@
 #### References:
 
 1. [Blog nihongo](https://blognihongo.com/)
-2. [Hedgehog Japanese](https://hedgehog-japanese.com/)
-3. [Japanese with anime](https://www.japanesewithanime.com/)
-4. [Jn1et](https://jn1et.com/)
-5. [Jref language articles](https://jref.com/articles/categories/language.4/)
-6. [Nihon5 bunka](https://nihon5-bunka.net/)
-7. [Nihongo-net](https://nihongo-net.com/)
+2. [Edujapa's Mikke Grammar Betsu](https://edujapa.com/mikke/grammarbetsu)
+3. [Hedgehog Japanese](https://hedgehog-japanese.com/)
+4. [Japanese with anime](https://www.japanesewithanime.com/)
+5. [Jn1et](https://jn1et.com/)
+6. [Jref language articles](https://jref.com/articles/categories/language.4/)
+7. [Maggie Sensei](https://maggiesensei.com/)
+8. [Nihon5 bunka](https://nihon5-bunka.net/)
+9. [Nihongo-net](https://nihongo-net.com/)
+10. [Tomo Juku](https://www.tomojuku.com/blog/sitemaps/)
 
 #### Other Links:
 
 1. [Japanese verb/adjective/noun inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
-2. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
-3. [Write Kanji](https://kanji.sh/write)
+2. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
+3. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
+4. [Write Kanji](https://kanji.sh/write)

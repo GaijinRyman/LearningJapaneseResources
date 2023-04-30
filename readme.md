@@ -24,7 +24,7 @@
 
 #### References:
 
-1. [Blog nihongo](https://blognihongo.com/)
+1. [Blog Nihongo](https://blognihongo.com/)
 2. [Edujapa's Mikke Grammar Betsu](https://edujapa.com/mikke/grammarbetsu)
 3. [Hedgehog Japanese](https://hedgehog-japanese.com/)
 4. [Japanese with anime](https://www.japanesewithanime.com/)
@@ -40,6 +40,6 @@
 1. [Japanese verb/adjective/noun inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 2. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
 3. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
-4. [Matcha](https://matcha-jp.com/) [Easy Version](https://matcha-jp.com/easy) - Travel Guides
+4. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
 5. [Natively](https://learnnatively.com/) - User based JLPT Aproximation of Native Content.
 6. [Write Kanji](https://kanji.sh/write)

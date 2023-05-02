@@ -27,7 +27,7 @@
 1. [Blog Nihongo](https://blognihongo.com/)
 2. [Edujapa's Mikke Grammar Betsu](https://edujapa.com/mikke/grammarbetsu)
 3. [Hedgehog Japanese](https://hedgehog-japanese.com/)
-4. [Japanese with anime](https://www.japanesewithanime.com/)
+4. [Japanese With Anime](https://www.japanesewithanime.com/)
 5. [Jn1et](https://jn1et.com/)
 6. [Jref Language Articles](https://jref.com/articles/categories/language.4/)
 7. [Maggie Sensei](https://maggiesensei.com/)

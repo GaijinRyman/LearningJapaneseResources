@@ -4,7 +4,7 @@
 
 1. [Donkuri](https://donkuri.github.io/learn-japanese/)
 2. [Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)
-3. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I Recommed The Moe Way If You Have Interested In Japanese Pop Culture.
+3. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I do Recommed **The Moe Way** If You Have Interest In Japanese Pop Culture.
 4. [Mandoran](http://www.mandoran.com/japanese.html)
 5. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859)
 6. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
@@ -36,7 +36,7 @@
 
 ### Other Links:
 
-1. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio) - Various Formats.**
+1. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio) ** - Various Formats.
 2. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 3. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
 4. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)

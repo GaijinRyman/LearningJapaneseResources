@@ -4,12 +4,11 @@
 
 1. [Donkuri](https://donkuri.github.io/learn-japanese/)
 2. [Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)
-3. [List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)
+3. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)**
 4. [Mandoran](http://www.mandoran.com/japanese.html)
-5. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28)
-6. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859)
-7. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
-8. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
+5. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859)
+6. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
+7. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
 
 ### Podcasts lists:
 
@@ -17,7 +16,7 @@
 2. [Kimi.wiki](https://kimi.wiki/japanese/podcasts)
 3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)
 4. [Perapera](https://www.perapera.org/best-podcasts-learning-japanese)
-5. [PodcastRepublic](https://www.podcastrepublic.net/)
+5. **[PodcastRepublic](https://www.podcastrepublic.net/)**
 6. [Recommendations by Akane sensei](https://www.youtube.com/watch?v=Pcq23OG_jks)
 7. [Reddit](https://www.reddit.com/r/LearnJapanese/comments/n1rocl/a_big_list_of_japanese_podcasts_from_beginners_to/)
 8. [Team Japanese](https://teamjapanese.com/japanese-podcasts/)
@@ -37,10 +36,11 @@
 
 ### Other Links:
 
-1. [Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio) - Various Formats.
+1. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio) - Various Formats.**
 2. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 3. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
 4. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
 5. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
-6. [Natively](https://learnnatively.com/) - User based JLPT Aproximation of Native Content.
-7. [Write Kanji](https://kanji.sh/write)
+6. **[Natively](https://learnnatively.com/) - User based JLPT Aproximation of Native Content.**
+7. **[Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28)**
+8. [Write Kanji](https://kanji.sh/write)

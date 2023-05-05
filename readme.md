@@ -1,6 +1,6 @@
 # GaijinRyman's Japanese Learning Resources
 
-### Learning Resource Lists:
+### Learning Resource Lists / Guides:
 
 1. [Donkuri](https://donkuri.github.io/learn-japanese/)
 2. [Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)

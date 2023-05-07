@@ -36,7 +36,7 @@
 
 ### Other Links:
 
-1. **[All Kinds of Resource You Can Imagine Uploaded by Me](https://file.io/ubB2gyLw8fie)** - Faster, Torrent. I will only seed by a limited period of time because I have a small HDD.
+1. **[All Kinds of Resource You Can Imagine Uploaded by Me](https://file.io/ubB2gyLw8fie)** - Faster, Torrent. I will only seed by a limited period of time because I have a small HDD. So If You Have a Good Amount of HDD Space, Seed And Share With The World!
 2. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio)** - Various Formats.
 3. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 4. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)

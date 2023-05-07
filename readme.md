@@ -36,11 +36,12 @@
 
 ### Other Links:
 
-1. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio)** - Various Formats.
-2. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
-3. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
-4. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
-5. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
-6. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
-7. **[Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28)**
-8. [Write Kanji](https://kanji.sh/write)
+1. **[All Kinds of Resource You Can Imagine Uploaded by Me](https://file.io/ubB2gyLw8fie)** - Faster, Torrent. I will only seed by a limited period of time because I have a small HDD.
+2. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio)** - Various Formats.
+3. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
+4. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
+5. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
+6. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
+7. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
+8. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - Direct, But Slow.
+9. [Write Kanji](https://kanji.sh/write)

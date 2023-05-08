@@ -36,7 +36,7 @@
 
 ### Other Links:
 
-1. **[All Kinds of Resources You Can Imagine Uploaded by Me](https://filebin.net/ea5roob5h1f551p2)** - Faster, Torrent. I will only seed by a limited period of time because I have a small HDD. So If You Have a Good Amount of HDD Space, Seed And Share With The World! Credits to uploaders, I just hoarded them. - Keep This Link Alive It Experes in 6 days of inactivity.
+1. **[Book Digital/Scan Collection Uploaded by Me](https://drive.google.com/file/d/1w2eid_-cI2PXo1ZcOUahbEeA65hnnxgI/view?usp=sharing)** Only The Best!
 2. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio)** - Various Formats.
 3. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 4. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)

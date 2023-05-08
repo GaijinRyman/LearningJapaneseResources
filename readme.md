@@ -43,5 +43,5 @@
 5. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
 6. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
 7. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
-8. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - Direct, But Slow.
+8. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More Options, But Slower.
 9. [Write Kanji](https://kanji.sh/write)

@@ -14,7 +14,7 @@
 
 1. [Japanesepod101](https://www.japanesepod101.com/blog/2022/02/17/japanese-podcasts/)
 2. [Kimi.wiki](https://kimi.wiki/japanese/podcasts)
-3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)do
+3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)
 4. [Perapera](https://www.perapera.org/best-podcasts-learning-japanese)
 5. **[PodcastRepublic](https://www.podcastrepublic.net/)**
 6. [Recommendations by Akane sensei](https://www.youtube.com/watch?v=Pcq23OG_jks)

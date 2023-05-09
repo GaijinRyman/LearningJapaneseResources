@@ -14,7 +14,7 @@
 
 1. [Japanesepod101](https://www.japanesepod101.com/blog/2022/02/17/japanese-podcasts/)
 2. [Kimi.wiki](https://kimi.wiki/japanese/podcasts)
-3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)
+3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)do
 4. [Perapera](https://www.perapera.org/best-podcasts-learning-japanese)
 5. **[PodcastRepublic](https://www.podcastrepublic.net/)**
 6. [Recommendations by Akane sensei](https://www.youtube.com/watch?v=Pcq23OG_jks)
@@ -26,7 +26,7 @@
 1. [Blog Nihongo](https://blognihongo.com/)
 2. [Edujapa's Mikke Grammar Betsu](https://edujapa.com/mikke/grammarbetsu)
 3. [Hedgehog Japanese](https://hedgehog-japanese.com/)
-4. [Japanese with anime](https://www.japanesewithanime.com/)
+4. [Japanese With Anime](https://www.japanesewithanime.com/)
 5. [Jn1et](https://jn1et.com/)
 6. [Jref Language Articles](https://jref.com/articles/categories/language.4/)
 7. [Maggie Sensei](https://maggiesensei.com/)
@@ -37,11 +37,11 @@
 ### Other Links:
 
 1. **[Book Digital/Scan Collection Uploaded by Me](https://drive.google.com/file/d/1w2eid_-cI2PXo1ZcOUahbEeA65hnnxgI/view?usp=sharing)** Only The Best!
-2. **[Dictionary Collection](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FJAPANESE) | [Audio Forvo](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2F0%20Forvo%20audio)** - Various Formats.
+2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, The Last Two Ones Only Work At Apple Devices, At This Commit Date).
 3. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
-4. [Kanji Homophone List](https://www.bretmayer.com/ijidokun.html)
+4. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html)
 5. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
 6. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
 7. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
 8. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More Options, But Slower.
-9. [Write Kanji](https://kanji.sh/write)
+9. [Write Kanji Sheets](https://kanji.sh/write)

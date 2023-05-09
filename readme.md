@@ -37,7 +37,7 @@
 ### Other Links:
 
 1. **[Book Digital/Scan Collection Uploaded by Me](https://drive.google.com/file/d/1w2eid_-cI2PXo1ZcOUahbEeA65hnnxgI/view?usp=sharing)** Only The Best!
-2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, The Last Two Ones Only Work At Apple Devices, At This Commit Date).
+2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The Last Two Ones Only Work At Apple Devices, At This Commit Date).
 3. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 4. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html)
 5. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)

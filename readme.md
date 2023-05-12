@@ -37,11 +37,11 @@
 ### Other Links:
 
 1. **[Book Digital/Scan Collection Uploaded by Me](https://drive.google.com/file/d/1w2eid_-cI2PXo1ZcOUahbEeA65hnnxgI/view?usp=sharing)** Only The Best!
-2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) (Kotobank) [https://kotobank.jp/] - Has Other Languages Other Than English/ [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The Last Two Ones Only Work At Apple Devices, At This Commit Date).
-3. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
-4. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html)
-5. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
-6. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
-7. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
-8. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More Options, But Slower.
-9. [Write Kanji Sheets](https://kanji.sh/write)
+2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Kotobank](https://kotobank.jp/)** - Has Other Languages Other Than English **[Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The Last Two Ones Only Work At Apple Devices, At This Commit Date).
+4. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
+5. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html)
+6. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
+7. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
+8. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
+9. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More Options, But Slower.
+10. [Write Kanji Sheets](https://kanji.sh/write)

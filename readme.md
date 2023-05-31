@@ -45,7 +45,7 @@
 5. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 6. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html)
 7. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
-8. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Reading Material
+8. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy) - Tourism in Japan Related Reading Material
 9. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
 10. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More Options, But Slower.
 11. [Write Kanji Sheets](https://kanji.sh/write)

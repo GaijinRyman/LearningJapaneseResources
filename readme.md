@@ -1,6 +1,6 @@
-# GaijinRyman's Japanese Learning Resources
+# GaijinRyman's Japanese Language Learning Resources
 
-### Learning Resource Lists / Guides:
+### General Lists / Guides:
 
 1. [Donkuri](https://donkuri.github.io/learn-japanese/)
 2. [Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)
@@ -10,18 +10,7 @@
 6. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
 7. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
 
-### Podcasts lists:
-
-1. [Japanesepod101](https://www.japanesepod101.com/blog/2022/02/17/japanese-podcasts/)
-2. [Kimi.wiki](https://kimi.wiki/japanese/podcasts)
-3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)
-4. [Perapera](https://www.perapera.org/best-podcasts-learning-japanese)
-5. **[PodcastRepublic](https://www.podcastrepublic.net/)**
-6. [Recommendations by Akane sensei](https://www.youtube.com/watch?v=Pcq23OG_jks)
-7. [Reddit](https://www.reddit.com/r/LearnJapanese/comments/n1rocl/a_big_list_of_japanese_podcasts_from_beginners_to/)
-8. [Team Japanese](https://teamjapanese.com/japanese-podcasts/)
-
-### References:
+### Grammar References:
 
 1. [Blog Nihongo](https://blognihongo.com/)
 2. [Edujapa's Mikke Grammar Betsu](https://edujapa.com/mikke/grammarbetsu)
@@ -34,14 +23,25 @@
 9. [Maggie Sensei](https://maggiesensei.com/)
 10. [Nihon5 Bunka](https://nihon5-bunka.net/)
 11. [Nihongo-net](https://nihongo-net.com/)
-12. [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - a Pretty Hand And Organized Refference Targeted At Upper Intermediate - Advanced Level / Natives.
+12. [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - a Handy Organized Refference Targeted At Natives That Can Be Used By Upper Intermediate - Advanced Level "Gaijin".
 13. [Pothos Blue](https://pothos.blue/html/20140424h.htm) Apparently a 接続詞 Geek.
 14. [Tomo Juku](https://www.tomojuku.com/blog/sitemaps/)
+
+### Japanese Podcasts lists:
+
+1. [Japanesepod101](https://www.japanesepod101.com/blog/2022/02/17/japanese-podcasts/)
+2. [Kimi.wiki](https://kimi.wiki/japanese/podcasts)
+3. [Mezzo Guild](https://www.mezzoguild.com/japanese-podcasts/)
+4. [Perapera](https://www.perapera.org/best-podcasts-learning-japanese)
+5. **[PodcastRepublic](https://www.podcastrepublic.net/)**
+6. [Recommendations by Akane sensei](https://www.youtube.com/watch?v=Pcq23OG_jks)
+7. [Reddit](https://www.reddit.com/r/LearnJapanese/comments/n1rocl/a_big_list_of_japanese_podcasts_from_beginners_to/)
+8. [Team Japanese](https://teamjapanese.com/japanese-podcasts/)
 
 ### Other Links:
 
 1. **[Book Digital/Scan Collection Uploaded by Me](https://drive.google.com/file/d/1w2eid_-cI2PXo1ZcOUahbEeA65hnnxgI/view?usp=sharing)** Only The Best!
-2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The Last Two Ones Only Work At Apple Devices, At This Commit Date - Also Kotobank And Monokakido Have Bilingual Dictionaries to Languages Other Than English).
+2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The Last Two Ones Only Work At Apple Devices, At This Commit Date - Also Kotobank And Monokakido Have Bilingual Dictionaries In Languages Other Than English).
 5. [Japanese Verb/Adjective/Noun Inflections](https://hayashibe.jp/tr/juman/dictionary/cform)
 6. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html)
 7. [Master List of Book Clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)

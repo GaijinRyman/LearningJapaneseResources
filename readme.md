@@ -2,13 +2,14 @@
 
 ## General Lists / Guides:
 
-1. [Donkuri](https://donkuri.github.io/learn-japanese/)
-2. [Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)
+1. **[Donkuri](https://donkuri.github.io/learn-japanese/)**
+2. **[Doth's](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)** Resources used by a person who passed n1 by the immersion method.
 3. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I do Recommed **The Moe Way** If You Have Interest In Japanese Pop Culture.
 4. [Mandoran](http://www.mandoran.com/japanese.html)
 5. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859)
-6. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
-7. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
+6. **[Xelieu's Lazy Guide](https://xelieu.github.io/jp-lazy-guide/) - Yomibaba (new yomichan) and Anki simple mining setup for various media types.**
+7. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
+8. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
 
 ## Grammar References:
 

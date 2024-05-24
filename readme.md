@@ -4,16 +4,17 @@
 
 1. **[Donkuri](https://donkuri.github.io/learn-japanese/)** - Donkuri's immersion based learning hub.
 2. **[Doth's Resources](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)** - Resources used by a person native of a non Kanji language who passed JLPT N1 by the immersion method.
-3. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I do recommed **The Moe Way** if you have interest In Japanese pop culture.
-4. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859).
-5. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
-6. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
+3. **[Jazzy's Guide](https://rentry.co/jazzy180) - Same as above, but other person.
+4. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I do recommed **The Moe Way** if you have interest In Japanese pop culture.
+5. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859).
+6. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
+7. [Jap4all](https://www.sites.google.com/view/jap4all) - In Spanish.
 
 ## Downloads:
 
 1. **[レフラの日本語図書館](https://drive.google.com/file/d/1c0IeqnqZHFFKjH6236ohJDTMo3v9F1cf/view?usp=drive_link)** - Mostly good scans of mostly good paid educational resources. Updated in : 05/23/2024
 2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The last two ones only work at apple devices, at this commit date - also Kotobank and Monokakido have bilingual dictionaries in languages other than English).
-3. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More options, but slower than my レフラの日本語図書館 collection Link.
+3. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More options, but slower than my レフラの日本語図書館 collection link.
 
 ## Kanji
 

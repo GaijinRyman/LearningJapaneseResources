@@ -3,7 +3,7 @@
 ## General Lists / Guides:
 
 1. **[Donkuri](https://donkuri.github.io/learn-japanese/)** - Donkuri's immersion based learning hub.
-2. **[Doth's Resources](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)** - Resources used by a person native of a non kanji language who passed JLPT N1 by the immersion method.
+2. **[Doth's Resources](https://docs.google.com/document/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ/)** - Resources used by a person native of a non Kanji language who passed JLPT N1 by the immersion method.
 3. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I do recommed **The Moe Way** if you have interest In Japanese pop culture.
 4. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859).
 5. [BrigadaSOS](https://brigadasos.xyz/) - In Spanish.
@@ -26,7 +26,7 @@
 Note if you don't understand Japanese defitions clearly you may check my educational pack or google (grammar point) + grammar in google.
 
 1.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
-2.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) Has Drawings - Chat GPT translations may seem Reasonable.
+2.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) Has drawings - Chat GPT translations may seem reasonable.
 4.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 5.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
 6.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "レフラの日本語図書館 pack".

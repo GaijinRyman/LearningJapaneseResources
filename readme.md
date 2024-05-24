@@ -40,4 +40,4 @@
 7. **[Natively](https://learnnatively.com/)** - User based JLPT Aproximation of Native Content.
 8.  [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More Options, But Slower Than My Gdrive Link.
 9.  [Web-Japan](https://web-japan.org/) Reading and watching material about Japanese culture and life, in various languages.
-10.   Write Kanji Sheets](https://kanji.sh/write)
+10. [Write Kanji Sheets](https://kanji.sh/write)

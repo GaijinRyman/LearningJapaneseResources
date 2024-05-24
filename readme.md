@@ -26,7 +26,7 @@
 Note if you don't understand Japanese defitions clearly you may check my educational pack or google (grammar point) + grammar in google.
 
 1.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
-2.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) Has drawings - Chat GPT translations may seem reasonable.
+2.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar Explanation wutg drawings (Chat GPT translations may seem reasonable).
 4.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 5.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
 6.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "レフラの日本語図書館 pack".

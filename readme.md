@@ -16,11 +16,16 @@
 2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The last two ones only work at apple devices, at this commit date - also Kotobank and Monokakido have bilingual dictionaries in languages other than English).
 3. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More options, but slower than my レフラの日本語図書館 collection link.
 
+## Dictionaries
+
+1. [Jitendex](https://jitendex.org/pages/downloads.html) = Jitendex - Improved JMDICT.
+2. [Jitenon](https://jitenon.com/) - The best Kanji dictionary - Better than KANJIDICT.
+
+
 ## Kanji
 
-1. [Jitenon](https://jitenon.com/) - The best Kanji dictionary - Better than KANJIDICT.
-2. [Learn Kanji By Writing](https://kanji.sh/write). - Self-explanatory.
-3. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html). - Self-explanatory.
+1. [Kanji Homophone Explanations In English](https://www.bretmayer.com/ijidokun.html). - Self-explanatory.
+2.  [Learn Kanji By Writing](https://kanji.sh/write). - Self-explanatory.
 
 ## Grammar References:
 

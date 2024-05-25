@@ -13,7 +13,7 @@
 ## Downloads:
 
 1. **[レフラの日本語図書館](https://drive.google.com/file/d/1c0IeqnqZHFFKjH6236ohJDTMo3v9F1cf/view?usp=drive_link)** - Mostly good scans of mostly good paid educational resources. Updated in : 05/23/2024
-2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [LogoVista](https://nyaa.si/view/1668839) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The last two ones only work at apple devices, at this commit date - also Kotobank and Monokakido have bilingual dictionaries in languages other than English).
+2. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The last two ones only work at apple devices, at this commit date - also Kotobank and Monokakido have bilingual dictionaries in languages other than English).
 3. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More options, but slower than my レフラの日本語図書館 collection link.
 
 ## Kanji
@@ -27,14 +27,14 @@
 Note if you don't understand Japanese defitions clearly you may check my educational pack or google (grammar point) + grammar in google.
 
 1.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
-2.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar explanations with drawings (Chat GPT translations may seem reasonable).
+2.  [Imabi](https://imabi.org/) - Colossal and nearly everyday evolving Japanese Grammar In English.
+3.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar explanations with drawings (Chat GPT translations may seem reasonable).
 4.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 5.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
 6.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "レフラの日本語図書館 pack".
 7.  [Pothos Blue](https://pothos.blue/setuzokusi.htm)  - Apparently a 接続詞 (conjunction) geek.
 8.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
-9.  [Imabi](https://imabi.org/) - Colossal and nearly everyday evolving Japanese Grammar In English.
-10.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
+9.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
     
 ## Reading Material
 

@@ -32,7 +32,7 @@ Note if you don't understand Japanese defitions clearly you may check my educati
 5.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
 6.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "レフラの日本語図書館 pack".
 7.  [Pothos Blue](https://pothos.blue/setuzokusi.htm)  - Apparently a 接続詞 (conjunction) geek.
-8.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Advanced but clear grammar in Japanese, has linguistics lingo.
+8.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
 9.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
     
 ## Reading Material

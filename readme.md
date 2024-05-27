@@ -54,5 +54,4 @@ Note if you don't understand Japanese defitions clearly you may check my educati
 
 ## Live TV VLC Playlist:
 
-Press ctrl + n and paste [this](https://iptv-org.github.io/iptv/languages/jpn.m3u) link, you may "jump" the channels in the second (first o the second grou) and fourth (third of the group).
-
+Press ctrl + n and paste [this](https://iptv-org.github.io/iptv/languages/jpn.m3u) link, you may "jump" the channels in the second (first o the second group) and fourth (third of the group).

@@ -12,7 +12,7 @@
 
 ## Downloads:
 
-1. **[レフラの日本語図書館](https://drive.google.com/file/d/1bdp9gX2P1riCuoGImQnP9I_9H-21Y9o0/view?usp=drivesdk)** - Mostly good scans of mostly good paid educational resources. Updated in : 05/26/2024
+1. **[レフラの日本語図書館](https://drive.google.com/file/d/1rvK_w5zDNrtwva5YAGcBkKgBo9tj4wTx/view?usp=sharing)** - Mostly good scans of mostly good paid educational resources. Updated in : 06/01/2024
 3. **[EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [Monokakido](https://nyaa.si/view/1667505)** - Dictionary Packs, (The last two ones only work at apple devices, at this commit date - also Kotobank and Monokakido have bilingual dictionaries in languages other than English).
 4. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More options, but slower than my レフラの日本語図書館 collection link.
 

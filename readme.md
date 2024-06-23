@@ -18,7 +18,7 @@
 
 ## Vocabulary:
 
-1. [Jitendex](https://jitendex.org/pages/downloads.html) = Jitendex - Improved JMDICT (Vocabulary Dictionary).
+1. [Jitendex](https://jitendex.org/pages/downloads.html) - Improved JMDICT (Vocabulary Dictionary).
 2. [Kanji Homophone (Words) Explanations In English](https://www.bretmayer.com/ijidokun.html). - Self-explanatory.
 
 ## Kanji:

@@ -33,12 +33,13 @@ Note if you don't understand Japanese defitions clearly you may check my educati
 1.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
 2.  [Imabi](https://imabi.org/) - Colossal and nearly everyday evolving Japanese Grammar In English.
 3.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar explanations with drawings (Chat GPT translations may seem reasonable).
-4.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
-5.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
-6.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "レフラの日本語図書館 pack".
-7.  [Pothos Blue](https://pothos.blue/setuzokusi.htm)  - Apparently a 接続詞 (conjunction) geek.
-8.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
-9.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
+4.  [Mainichi-nonbiri](https://mainichi-nonbiri.com/japanese-grammar/) - Trilingual JP-CH-EN Grammar, useful for counterchecks and non JLPT grammar.
+5.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
+6.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
+7.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "日本語図書館 pack".
+8.  [Pothos Blue](https://pothos.blue/setuzokusi.htm)  - Apparently a 接続詞 (conjunction) geek.
+9.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
+10.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
     
 ## Reading:
 

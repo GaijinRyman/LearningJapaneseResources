@@ -12,8 +12,8 @@
 
 ## Downloads:
 
-1. **[日本語図書館](https://drive.google.com/file/d/1bJVcecSJa6Z4sqyFa5HvVyY9abaPZjdm/view?usp=sharing)** - Mostly good scans of mostly good paid educational resources. Sorted by me, updated in : 06/23/2024
-2. **[My personal dictionary collection](https://mega.nz/folder/BGc0BACT#vz14Z6pX6OlQc0zIKPn12g)** Dictionaries used by me - updated in: 06/23/2024.
+1. **[日本語図書館](https://drive.google.com/file/d/1G5_0V1KbMw4UCuY5yqujZG9YFz1ygvFb/view?usp=sharing)** - Mostly good scans of mostly good paid educational resources. Sorted by me, updated in : 06/29/2024
+2. **[My personal dictionary collection](https://mega.nz/folder/BGc0BACT#vz14Z6pX6OlQc0zIKPn12g)** Dictionaries used by me - updated in: 06/29/2024.
 3. [EPWING](https://nyaa.si/view/1577255) [MDX](https://nyaa.si/view/1634529) [Yomichan](https://github.com/MarvNC/yomichan-dictionaries) [Kotobank](https://kotobank.jp/) [Monokakido](https://nyaa.si/view/1667505) - Dictionary Packs, (The last two ones only work at apple devices, at this commit date - also Kotobank and Monokakido have bilingual dictionaries in languages other than English).
 4. [Textbooks and JLPT Preparation](https://nitroflare.com/folder/949760/L045paG9uZ28) - More options, but slower than my レフラの日本語図書館 collection link.
 
@@ -42,14 +42,14 @@ Note if you don't understand Japanese defitions clearly you may check my educati
 9.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
 10.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
     
-## Reading:
+## Reading - My 図書館 pack has reading material worth until the N4:
 
 1. [YomuJP](https://yomujp.com/)  - Free reading by JLPT levels with audio.
 2. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy)  - Tourism in Japan related magazine.
 3. [Natively](https://learnnatively.com/)  - User votation based JLPT aproximation of native content.
 4. [Web-Japan](https://web-japan.org/) Reading and watching material about Japanese culture and life, in various languages (Gov sponsored, so, take with a grain of salt).
 
-## Listening:
+## Listening - My 図書館 pack has listening material worth until the N4:
 
 1. **[PodcastRepublic](https://www.podcastrepublic.net/)** - Change the country to Japan and search keywords about stuff you would enjoy.
 2. [Tofugu Beginners](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/) | [Intermediate](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/) - Podcasts Recomemndations by Tofugu.

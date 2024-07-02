@@ -3,7 +3,7 @@
 ## General Lists / Guides:
 
 1. **[Donkuri](https://donkuri.github.io/learn-japanese/)** - Donkuri's immersion based learning hub.
-2. **[Doth's Resources](https://drive.google.com/file/d/1bdp9gX2P1riCuoGImQnP9I_9H-21Y9o0)** - Resources used by a person native of a non Kanji language who passed JLPT N1 by the immersion method.
+2. **[Doth's Resources](https://docs.google.com/document/u/0/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ)** - Resources used by a person native of a non Kanji language who passed JLPT N1 by the immersion method.
 3. **[Jazzy's Guide](https://rentry.co/jazzy180)** - Same as above, but other person.
 4. **[List of Immersion Groups](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI)** - I do recommed **The Moe Way** if you have interest In Japanese pop culture.
 5. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859).
